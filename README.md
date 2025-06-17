@@ -6,3 +6,5 @@ ADVANCED-SPELL-CHECKER:https://github.com/Bonaganisaicharan/ADVANCED-SPELL-CHECK
 DOC:https://github.com/Bonaganisaicharan/ADVANCED-SPELL-CHECKER-/blob/main/project%20DOCUMENTATION.pdf
 
 code:https://github.com/Bonaganisaicharan/ADVANCED-SPELL-CHECKER-/blob/main/project%20code.pdf
+
+dataset:https://github.com/Bonaganisaicharan/ADVANCED-SPELL-CHECKER-/blob/main/dataset.txt
